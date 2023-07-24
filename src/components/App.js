@@ -8,7 +8,6 @@ import FriendList from './FriendList/FriendList';
 import TransactionHistory from 'components/TransactionHistory/TransactionHistory';
 
 export default function App() {
-  console.log('test');
   return (
     <>
       <Profile

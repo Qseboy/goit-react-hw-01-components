@@ -24,6 +24,6 @@ Statistics.propTypes = {
     stats: PropTypes.arrayOf(PropTypes.shape({
          id: PropTypes.string.isRequired,
          label: PropTypes.string.isRequired,
-         precentage: PropTypes.number.isRequired
+         percentage: PropTypes.number.isRequired
      }).isRequired
  ).isRequired}
